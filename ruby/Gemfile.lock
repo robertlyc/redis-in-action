@@ -1,5 +1,5 @@
 GEM
-  remote: https://rubygems.org/
+  remote: https://ruby.taobao.org/
   specs:
     coderay (1.0.9)
     diff-lcs (1.2.5)
@@ -30,3 +30,6 @@ DEPENDENCIES
   pry
   redis
   rspec
+
+BUNDLED WITH
+   1.10.6
